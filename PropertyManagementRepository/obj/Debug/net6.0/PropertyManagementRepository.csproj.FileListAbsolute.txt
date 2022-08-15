@@ -1,0 +1,14 @@
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementRepository/bin/Debug/net6.0/PropertyManagementRepository.deps.json
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementRepository/bin/Debug/net6.0/PropertyManagementRepository.dll
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementRepository/bin/Debug/net6.0/PropertyManagementRepository.pdb
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementRepository/obj/Debug/net6.0/PropertyManagementRepository.csproj.AssemblyReference.cache
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementRepository/obj/Debug/net6.0/PropertyManagementRepository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementRepository/obj/Debug/net6.0/PropertyManagementRepository.AssemblyInfoInputs.cache
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementRepository/obj/Debug/net6.0/PropertyManagementRepository.AssemblyInfo.cs
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementRepository/obj/Debug/net6.0/PropertyManagementRepository.csproj.CoreCompileInputs.cache
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementRepository/obj/Debug/net6.0/PropertyManagementRepository.dll
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementRepository/obj/Debug/net6.0/refint/PropertyManagementRepository.dll
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementRepository/obj/Debug/net6.0/PropertyManagementRepository.pdb
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementRepository/obj/Debug/net6.0/ref/PropertyManagementRepository.dll
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementRepository/bin/Debug/net6.0/PropertyManagementRepository.runtimeconfig.json
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementRepository/obj/Debug/net6.0/PropertyManagementRepository.genruntimeconfig.cache

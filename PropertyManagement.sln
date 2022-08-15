@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyManagementApi", "PropertyManagementApi\PropertyManagementApi.csproj", "{40834E04-4435-4C3C-A283-A398DD3A9981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyManagementServices", "PropertyManagementServices\PropertyManagementServices.csproj", "{2258205E-648A-44C1-8E55-9AD635314F82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyManagementRepository", "PropertyManagementRepository\PropertyManagementRepository.csproj", "{A1ADE71B-A3BF-4E20-9EAF-1566B9208A17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40834E04-4435-4C3C-A283-A398DD3A9981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40834E04-4435-4C3C-A283-A398DD3A9981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40834E04-4435-4C3C-A283-A398DD3A9981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40834E04-4435-4C3C-A283-A398DD3A9981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2258205E-648A-44C1-8E55-9AD635314F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2258205E-648A-44C1-8E55-9AD635314F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2258205E-648A-44C1-8E55-9AD635314F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2258205E-648A-44C1-8E55-9AD635314F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1ADE71B-A3BF-4E20-9EAF-1566B9208A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1ADE71B-A3BF-4E20-9EAF-1566B9208A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1ADE71B-A3BF-4E20-9EAF-1566B9208A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1ADE71B-A3BF-4E20-9EAF-1566B9208A17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

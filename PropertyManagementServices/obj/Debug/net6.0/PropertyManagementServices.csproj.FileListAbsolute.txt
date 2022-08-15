@@ -1,0 +1,15 @@
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementServices/bin/Debug/net6.0/PropertyManagementServices.deps.json
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementServices/bin/Debug/net6.0/PropertyManagementServices.dll
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementServices/bin/Debug/net6.0/PropertyManagementServices.pdb
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementServices/bin/Debug/net6.0/PropertyManagementRepository.dll
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementServices/bin/Debug/net6.0/PropertyManagementRepository.pdb
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementServices/obj/Debug/net6.0/PropertyManagementServices.csproj.AssemblyReference.cache
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementServices/obj/Debug/net6.0/PropertyManagementServices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementServices/obj/Debug/net6.0/PropertyManagementServices.AssemblyInfoInputs.cache
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementServices/obj/Debug/net6.0/PropertyManagementServices.AssemblyInfo.cs
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementServices/obj/Debug/net6.0/PropertyManagementServices.csproj.CoreCompileInputs.cache
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementServices/obj/Debug/net6.0/PropertyManagementServices.csproj.CopyComplete
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementServices/obj/Debug/net6.0/PropertyManagementServices.dll
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementServices/obj/Debug/net6.0/refint/PropertyManagementServices.dll
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementServices/obj/Debug/net6.0/PropertyManagementServices.pdb
+/Users/tylersatter/RiderProjects/PropertyManagement/PropertyManagementServices/obj/Debug/net6.0/ref/PropertyManagementServices.dll
